@@ -1,1 +1,1 @@
-# Hornoe OS
+# Hormoe OS
